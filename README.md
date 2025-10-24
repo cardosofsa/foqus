@@ -38,36 +38,26 @@ Roteamento Protegido: Separação clara entre rotas públicas (Login) e privadas
 
 3. Stack Tecnológico
 
-Categoria
-
-Tecnologia
-
-Backend
-
+# Backend
 Python, Django, Django REST Framework
 
-Frontend
-
+# Frontend
 Next.js 14, React 18, TypeScript
 
-Base de Dados
-
+# Base de Dados
 SQLite (para desenvolvimento)
 
-API
-
+# API
 RESTful (com axios no frontend)
 
-Estilização
-
+# Estilização
 Tailwind CSS
 
-Gestão de Estado (Frontend)
 
+# Gestão de Estado (Frontend)
 TanStack Query (React Query)
 
-Inteligência Artificial
-
+# Inteligência Artificial
 Google Gemini API
 
 4. Estrutura do Repositório
